@@ -1,2 +1,2 @@
-# d-exploratory-dataAnalysis-and-Predictive-modeling
+# Exploratory-DataAnalysis-and-Predictive-modeling
 PROJECT -1 
